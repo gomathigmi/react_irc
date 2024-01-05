@@ -1,0 +1,44 @@
+
+body {
+    margin: auto;
+    background-color: #e1bee7; 
+  }
+  
+  .cardContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.card {
+    margin-top: 10%;
+    margin: 10px;
+  }
+  
+  .cardContent {
+    text-align: center;
+  }
+  
+  .cardImage {
+    width: 100%;
+    height: auto;
+  }
+  .d{
+    padding-top: 5%;
+    padding: 5%;
+    align-items: center;
+  }
+  .gridclass{
+       margin-left: 25%;
+       margin:auto;
+       height: 300px;
+       width:40vw;
+
+  }
+  .customCardMedia {
+    width: 80%; 
+    height: 70%;
+    background: fixed;
+  }
+  
